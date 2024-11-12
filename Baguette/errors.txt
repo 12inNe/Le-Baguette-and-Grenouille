@@ -1,0 +1,8 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/hidden object/Point and click.rpy", line 112: Indentation mismatch.
+
+Ren'Py Version: Ren'Py 8.2.2.24061201
+Mon Nov  4 19:17:48 2024
